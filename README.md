@@ -1,5 +1,7 @@
 # Afloat: Bridging Gaps in Mental Health and Social Connectivity
 
+## Figma Link: https://www.figma.com/proto/QBsz6VRukK7BJxx8l6G2bz/Screens---HCI?type=design&node-id=1113-7783&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1113%3A7764
+
 ## Abstract
 
 This repository contains the research and design of Afloat, an application addressing social and mental health challenges among LUMS students post-COVID-19. Afloat facilitates meaningful social connections and therapy access based on user preferences.
