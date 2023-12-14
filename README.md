@@ -1,6 +1,6 @@
 # Afloat: Bridging Gaps in Mental Health and Social Connectivity
 
-## Figma Link: https://www.figma.com/proto/QBsz6VRukK7BJxx8l6G2bz/Screens---HCI?type=design&node-id=1113-7783&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1113%3A7764
+### Figma Link: https://www.figma.com/proto/QBsz6VRukK7BJxx8l6G2bz/Screens---HCI?type=design&node-id=1113-7783&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1113%3A7764
 
 ## Abstract
 
